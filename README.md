@@ -1,3 +1,4 @@
+![pict--portfolio-project-management-vector-stencils-library](https://user-images.githubusercontent.com/54411162/229269447-093ce8ae-f21e-488e-8a41-b2a9f62932cc.png)
 
 ## Projects Portfolio
 

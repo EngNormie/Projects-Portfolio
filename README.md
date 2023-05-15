@@ -6,7 +6,7 @@ This repository is a selected compilation of my projects spanning my career prac
 
 * Datasets used for the analysis are located in the other [Datasets](https://github.com/EngNormie/Datasets/) repository.
 
-* Data visualization files are located in the [Data-Visualizations](https://github.com/EngNormie/Data-Visualizations) repository.
+* Data visualization files are located in the [Data-Visualizations](https://github.com/EngNormie/Data-Visualization) repository.
 
 
 ## Data Analysis and Visualization

@@ -19,8 +19,16 @@ This repository is a selected compilation of my projects spanning my career prac
 
 ## Robotic Process Automation (RPA)
 
-## FEEL FREE TO ENGAGE SO WE LEARN TOGETHER 
-LinkedIn profile Link: My LinkedIn Profile
-Github link:Github profile
-Kaggle Link: Kaggle Profile
-PowerBI visualisation imbedded code:Power data Viz link
+## 📬FEEL FREE TO ENGAGE📬
+
+[Twitter](https://twitter.com/Eng_Normie)
+
+[Linkedin](https://www.linkedin.com/in/normangwangwava/)
+
+[Blog](https://engnormie.wordpress.com/)
+
+[Tableau](https://tableau.com/engnormie)
+
+[Novpro](https://novpro.com/engnormie)
+
+[Medium](https://medium.com/engnormie)

@@ -12,7 +12,7 @@ This repository is a selected compilation of my projects spanning my career prac
 ## Data Analysis and Visualization
 
 ## Machine Learning and Artificial Intelligence
-### [Sales Prediction](https://github.com/EngNormie/Projects-Portfolio/blob/main/Sales-Prediction.ipynb)
+### [Sales Prediction](https://github.com/EngNormie/Projects-Portfolio/blob/main/Sales%20Prediction.ipynb))
 This problem requires use of relevant machine learning steps and appropriate model to predict total sales using features like money spent on Advertising/Marketing. The analysis is based on [Advertising Dataset](https://github.com/EngNormie/Datasets/blob/main/Advertising.csv). You can also download the dataset from [Kaggle](https://www.kaggle.com/datasets/technormie/advertising-and-sales) 
 
 ## Business Process Modeling and Automation (BPM/BPA)

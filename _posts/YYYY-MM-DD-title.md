@@ -1,8 +1,0 @@
----
-title: "Microsoft-365-Apps"
-date: 2023-03-19
----
-Many are familiar with Google Apps. A large proportion of personal email accounts and some custom work emails are offered through Gmail. The Google apps are readily available from the Gmail interface.
-Enough of background issues about Google Apps. Microsoft is relentlessly pushing hard in the tech space. The tech giant is revolutionizing its office 365 app, announcing that, “the Office app is becoming the new Microsoft 365 app”. The Microsoft 365 app is home to a gamut of product suites and apps that the tech giant offers. This, at least, looks similar to the usual approach adopted by Google a while ago. 
-An ordinary individual is at least familiar with some regular office apps – Word, Excel, PowerPoint, Outlook. Others inclined towards professional applications are SharePoint, Project, Visio, OneDrive, and OneNote. The rise of work-from-home due to Covid-19 resulted in the popularity of Teams. Some interesting offers within the range of Microsoft 365 Apps include Power Apps, Power Automate, and Power BI.
-Going back to our comparison, Google Apps are more inclined towards personal use, whereas Microsoft 365 Apps are largely for corporate use. Whilst licensing may be a hindrance to tech lovers wanting to tinker with Microsoft 365 Apps, opening a Microsoft developer account freely opens access to most of the features. However, one may still not be able to explore the Microsoft 365 Apps publicly (via external users). This is most understandable considering that the apps are targeted for internal use, with some special licensing for certain external deployment.

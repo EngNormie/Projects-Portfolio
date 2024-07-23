@@ -24,6 +24,12 @@ Bard, a Large Language Model (LLM) by Google AI can be accessed in Jupyter Noteb
 
 ## Robotic Process Automation (RPA)
 
+# 🚦 Getting Started
+To start using the projects in this repository:
+
+- Clone the repo to your local machine: `git clone https://github.com/EngNormie/Projects-Portfolio.git`
+- Navigate to the specific project directory and Start working on the project using the provided template code and following the project description.
+  
 ## 📬FEEL FREE TO ENGAGE📬
 
 [Twitter](https://twitter.com/Eng_Normie)

@@ -33,12 +33,6 @@ This problem requires use of relevant machine learning steps and appropriate mod
 ### [Google Bard](https://github.com/EngNormie/Projects-Portfolio/blob/main/BardAPI%20in%20Jupyter%202.ipynb)
 Bard, a Large Language Model (LLM) by Google AI can be accessed in Jupyter Notebooks through the Bard-API Python package. Follow the steps below to start interacting with Bard in your jupyter notebooks;
 
-## Business Process Modeling and Automation (BPM/BPA)
-
-## Power Platform Developer
-
-## Robotic Process Automation (RPA)
-
 # 🚦 Getting Started
 To start using the projects in this repository:
 

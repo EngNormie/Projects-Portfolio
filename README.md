@@ -13,7 +13,7 @@ I've arranged sample projects by topic in the table below. Click on a topic of i
 | Topic                                            | Summary                                                                            |
 | ------------------------------------------------ | ---------------------------------------------------------------------------------- |
 | [Quick Tips](https://github.com/EngNormie/Quick-Tips) | Hacks that make you a pro in the tech field. These include CMD and shell commands, quck setting up IDEs and other how to-s |
-| [Data Analysis](https://github.com/EngNormie/Projects-Portfolio) | Practical guides on Exploratory Data Analysis (EDA), data visualization, and data modeling using Excel and SQL |
+| [Data Analysis](https://github.com/EngNormie/Projects-Portfolio/tree/main/Projects/01%20Data%20Analysis) | Practical guides on Exploratory Data Analysis (EDA), data visualization, and data modeling using Excel and SQL |
 | [Supervised Learning](https://github.com/EngNormie/Projects-Portfolio) | Selected real business problems of machine learning that use labeled datasets to train algorithms to predict outcomes and recognize patterns  |
 | [Unsupervised Learning](https://github.com/EngNormie/Projects-Portfolio) | Demonstration of machine learning algorithms that use unlabeled data to discover patterns and relationships in the data without any explicit guidance. |
 | [Reinforcement Learning](https://github.com/EngNormie/Projects-Portfolio) | Learning to make decisions by performing actions in an environment and receiving rewards or penalties. |

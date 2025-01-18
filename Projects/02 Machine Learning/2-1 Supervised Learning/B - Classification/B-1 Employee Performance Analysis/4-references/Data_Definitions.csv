@@ -1,0 +1,36 @@
+,
+EmpEducationLevel,1 'Below College'
+,2 'College'
+,3 'Bachelor'
+,4 'Master'
+,5 'Doctor'
+,
+EmpEnvironmentSatisfaction,1 'Low'
+,2 'Medium'
+,3 'High'
+,4 'Very High'
+,
+EmpJobInvolvement,1 'Low'
+,2 'Medium'
+,3 'High'
+,4 'Very High'
+,
+EmpJobSatisfaction,1 'Low'
+,2 'Medium'
+,3 'High'
+,4 'Very High'
+,
+PerformanceRating,1 'Low'
+,2 'Good'
+,3 'Excellent'
+,4 'Outstanding'
+,
+RelationshipSatisfaction,1 'Low'
+,2 'Medium'
+,3 'High'
+,4 'Very High'
+,
+EmpWorkLifeBalance,1 'Bad'
+,2 'Good'
+,3 'Better'
+,4 'Best'

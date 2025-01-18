@@ -24,15 +24,6 @@ I've arranged sample projects by topic in the table below. Click on a topic of i
 | [Power Platform Developer](https://github.com/EngNormie/Projects-Portfolio) | Contribute to the growth of **Workplace Transformation** by assisting enterprises adopt Microsoft Power Platform (Power Apps, Power Automate, Power BI, Power Pages, AI Builder) |
 | [Robotic Process Automation (RPA)](https://github.com/EngNormie/Projects-Portfolio) | Business use-cases demonstrating identifying automation opportunities, creating efficient automated workflows, and maintaining and enhancing existing bots to improve business processes and operations. Features RPA tools, creating bots, workflows, and automation scripts |
 
-## Data Analysis and Visualization
-
-## Machine Learning and Artificial Intelligence
-### [Sales Prediction](https://github.com/EngNormie/Projects-Portfolio/blob/main/Sales%20Prediction.ipynb)
-This problem requires use of relevant machine learning steps and appropriate model to predict total sales using features like money spent on Advertising/Marketing. The analysis is based on [Advertising Dataset](https://github.com/EngNormie/Datasets/blob/main/Advertising.csv). You can also download the dataset from [Kaggle](https://www.kaggle.com/datasets/technormie/advertising-and-sales) 
-
-### [Google Bard](https://github.com/EngNormie/Projects-Portfolio/blob/main/BardAPI%20in%20Jupyter%202.ipynb)
-Bard, a Large Language Model (LLM) by Google AI can be accessed in Jupyter Notebooks through the Bard-API Python package. Follow the steps below to start interacting with Bard in your jupyter notebooks;
-
 # 🚦 Getting Started
 To start using the projects in this repository:
 

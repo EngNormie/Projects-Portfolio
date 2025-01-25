@@ -9,7 +9,7 @@ The analysis will be performed using the pizza_sales database that consist of fo
 
 * pizza_type, and
 * pizza.
-The original dataset can be downloaded from [kaggle]().
+The original dataset can be downloaded from [kaggle](https://www.kaggle.com/datasets/ylenialongo/pizza-sales).
 
 ### **Business Questions**
 Gathering a set of key business questions guides us in the Exploratory Data Analysis (EDA) process. Below are some questions to help us gain more insights regarding the restaurant business operations:

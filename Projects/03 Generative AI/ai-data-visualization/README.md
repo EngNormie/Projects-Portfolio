@@ -57,4 +57,4 @@ The user has options to choose features to retain in the processed dataframe bef
  The user is presented with options to implement. Once selection is made, the data passes on to the LLM model for prompt generation specific to the dataset. The model presents code and visuals based on the user input and loaded dataframe.
 
 ## Sample the Deployed App:
-[datAI in Action]([https://www.datAI.ap](https://ai-data-viz.streamlit.app/))
+[datAI in Action](https://ai-data-viz.streamlit.app/)

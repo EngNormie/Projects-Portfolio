@@ -1,0 +1,20 @@
+[server]
+headless = true
+port = 8501
+enableCORS = false
+enableXsrfProtection = false
+
+[theme]
+base = "dark"  # Options: "light", "dark"
+primaryColor = "#4F8BF9"  # Custom primary color (Accent color)
+backgroundColor = "#111827" # Dark background
+secondaryBackgroundColor = "#1F2937" # Sidebar background
+textColor = "#F9FAFB"  # Light text
+font = "sans serif"  # Options: "sans serif", "serif", "monospace"
+
+[client]
+showSidebarNavigation = true  # Show sidebar menu
+toolbarMode = "minimal"  # Hide developer tools button
+
+[logger]
+level = "info"

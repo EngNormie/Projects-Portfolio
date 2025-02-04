@@ -55,5 +55,11 @@ pg = st.navigation(
 st.logo("assets/data_vizl2.png")
 st.sidebar.text("Data Visualization with datAI 🤖")
 
+# Link to GitHub Repo
+st.sidebar.link_button(
+    "📜 Get Source Code", 
+    "https://github.com/EngNormie/Projects-Portfolio/tree/main/Projects/03%20Generative%20AI/ai-data-visualization"
+)
+
 # ---- Run Navigation ----
 pg.run()

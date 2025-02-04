@@ -42,12 +42,20 @@ if "api_key" in st.session_state and st.session_state["api_key"]:
 else:
     st.warning("⚠️ No OpenAI API Key detected. Please enter your API key to continue.")
 
-    if st.button("🔐 Enter your OpenAI API Key"):
-        show_apikey_form()      # Set flag to show form      
+    # Create two side-by-side buttons
+    colm1, colm2 = st.columns([1, 1])  # Equal width columns
 
-        # Show a manual refresh button instead of auto-refresh
-        if st.button("🔄 Refresh Page"):
-            st.rerun()
+    with colm1:
+        if st.button("🔐 Enter your OpenAI API Key"):
+            show_apikey_form()      # Set flag to show form      
+
+            # Show a manual refresh button instead of auto-refresh
+            if st.button("🔄 Refresh Page"):
+                st.rerun()
+    
+    # Button to open OpenAI API Key creation page in a new tab        
+    with colm2:
+        st.link_button("🔑 Get New OpenAI API Key", "https://platform.openai.com/account/api-keys", use_container_width=False)
     
 ###++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
    

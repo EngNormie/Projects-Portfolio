@@ -4,6 +4,8 @@
 To conduct a comprehensive sales performance analysis, identifying key trends and opportunities for improvement. The dashboard will provide insights into total sales, profit, regional performance, product category sales, and top-performing sellers using various KPIs and visualizations.
 
 ### Dashboard
+[Click to view or download excel dashboard](sales_tracker_dashboard.xlsx)
+
 ![alt text](Dashboard.png)
  
 ### KPIs Requirements
